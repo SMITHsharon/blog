@@ -1,0 +1,54 @@
+#a1 {
+	background: #D1B4C4;
+	font-family: 'Nunito Sans', sans-serif;
+	font-size: 1em;
+	color: purple;
+	line-height: 1em;
+	padding: 10px;
+	border: 2px solid blue;
+	border-radius: 10px;
+}
+
+#a2 {
+	background: #B4D1C1;
+	font-family: 'Indie Flower', cursive;
+	font-size: 1.75em;
+	color: blue;
+	line-height: 1.25em;
+	padding: 20px;
+	border: 2px solid blue;
+	border-radius: 50px;
+}
+
+#a3 {
+	background: #D1CFB4;
+	font-family: 'Lobster', cursive;
+	font-size: 1.5em;
+	color: slategray;
+	line-height: 1.1em;
+	padding: 250px;
+	border: 2px solid blue;
+	border-radius: 400px;
+}
+
+#a4 {
+	background: #B4B6D1;
+	font-family: 'Playfair Display', serif;
+	font-size: 1.25em;
+	color: teal;
+	line-height: 1.5em;
+	padding: 40px;
+	border: 2px solid blue;
+	border-radius: 100px;
+}
+
+#a5 {
+	background: #B4C6D1;
+	font-family: 'Pacifico', cursive;
+	font-size: 0.9em;
+	color: red;
+	line-height: 1.75em;
+	padding: 50px;
+	border: 2px solid blue;
+	border-radius: 250px;
+}
