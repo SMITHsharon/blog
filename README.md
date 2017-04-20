@@ -1,7 +1,7 @@
 # NSS Blog Exercise
 
 ### Project Description 
-This blog assignment applies css styling to five "articles" posted in the index.html file. 
+This blog assignment applies `css` styling to five "articles" posted in the `index.html` file. 
 ![Blog Screengrab](https://raw.githubusercontent.com/SMITHsharon/blog/master/blog%20screen%20shot.png)
 
 
@@ -18,8 +18,8 @@ For each article, apply:
 
 
 ### Technologies Used
-- html
-- css
+- `html`
+- `css`
 
 
 ### How To View The Blog 
@@ -27,11 +27,11 @@ For each article, apply:
 ```
 git clone https://github.com/SMITHsharon/blog.git
 cd blog
-npm install http-server -g
 http-server -p 8080
 ```
 
 This will show in your browser at: `http://localhost:8080`
+
 
 ### Contributor
 [Sharon Smith](https://github.com/SMITHsharon)
